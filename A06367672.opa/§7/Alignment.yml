@@ -1,0 +1,34 @@
+segment_sources:
+  P44480A8C:
+    type: origin_type
+    relation: translation
+    language: sa
+  PF28C6820:
+    type: origin_type
+    relation: translation
+    language: bo
+  P3AE7DD0C:
+    type: origin_type
+    relation: translation
+    language: zh
+  PAFA40BDA:
+    type: origin_type
+    relation: translation
+    language: zh
+  PC6EC5FB7:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  151c4465a6594b598e6a9bbc5af32cbd:
+    P44480A8C: 2966505649e349d48248b3e5e414cc40
+    PF28C6820: 34507c5ecd1948c7af70f06bb26ed6be
+    P3AE7DD0C: 3dee2fa8ca1f4cd398c8cbe6101cb21b
+    PAFA40BDA: 44597984d6144e0190f675e6b5896b8e
+    PC6EC5FB7: 67ea16db0ede4d079b549ecc519bfdb4
+  91c155f82ce746e7ba3850eebefc763e:
+    P44480A8C: None
+    PF28C6820: 27923bb6137e4111a96c0f5027333cb4
+    P3AE7DD0C: d060413f163f4e1f9ebf56cece27b353
+    PAFA40BDA: b8b18082bad84eddaebb822e89ae4ec7
+    PC6EC5FB7: 69c81e4a265443b69f07eeb750ce94d3
